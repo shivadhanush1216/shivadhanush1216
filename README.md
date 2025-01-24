@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Taduri Shiva Dhanush Reddy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
-- 🔭 I’m currently working on **Full stack projects**
+- 🔭 I’m currently working on **Full Stack projects**
 
 - 🌱 I’m currently learning **Machine Learning and Deep Neural Network**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivadhanush1216](https://github.com/shivadhanush1216)
 
-- 💬 Ask me about **react,Tailwind CSS**
+- 💬 Ask me about **React,JavaScript,Tailwind CSS**
 
 - 📫 How to reach me **shivadhanushreddythaduri@gmail.com**
 
